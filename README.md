@@ -1,4 +1,5 @@
 # null_or_empty
+![Generic badge](https://PATH_TOYOUR_SERVER_CONTAINING_BADGES/main-build.svg)
 
 [![Node CI](https://github.com/kalwar/null_or_empty/actions/workflows/whatever.yml/badge.svg)](https://github.com/kalwar/null_or_empty/actions/workflows/whatever.yml)
 
